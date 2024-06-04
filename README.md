@@ -15,4 +15,4 @@ I used functional React to build this project. The project is divided into multi
 
 ## Deployed version 🚀
 
-https://music-site-aleksandra.netlify.com/
+https://music-site-aleksandra.netlify.app/
